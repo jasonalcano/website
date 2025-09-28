@@ -4,8 +4,9 @@ I am Jason. I am starting to put up a personal website for academic and professi
 
 This website this currently in progress.
 
-Additionally, the website template is downloaded from HTML5 UP by @ajlkn. Details below:
+Additionally, the website template is downloaded from HTML5 UP by @ajlkn. Thank you for the template.
 
+Details below:
 Miniport by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -22,3 +23,4 @@ Credits:
 		jQuery (jquery.com)
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
